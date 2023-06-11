@@ -10,9 +10,9 @@
             "image_2": "shopify:\/\/shop_images\/frame.png",
             "img_side": "shopify:\/\/shop_images\/asdasd.png",
             "sub-heading": "Discover",
-            "heading": "A Cėfty Halfling Latest Collection",
+            "heading": "A Crafty Halfling Latest Collection",
             "heading_size": "h1",
-            "subheading": "It is a long established fact that a reader will be distracted.",
+            "subheading": "",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/all",
             "button_style_secondary": false,
@@ -26,12 +26,13 @@
         },
         "template--18049197867294__82c2f430-3351-4c44-af7a-3b7cc0a24eb9-1677483560fed5d770-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Folder_2_4757003a-d466-48dd-b5c7-16ae4b6a8d71.png",
             "image_2": "shopify:\/\/shop_images\/frame.png",
             "img_side": "shopify:\/\/shop_images\/asdasd.png",
             "sub-heading": "Discover",
-            "heading": "A Cėfty Halfling Latest Collection",
+            "heading": "A Crafty Halfling Latest Collection",
             "heading_size": "h1",
             "subheading": "It is a long established fact that a reader will be distracted.",
             "button_label": "Shop Now",
@@ -67,28 +68,29 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Layer_77.png",
-            "cat_title": "Dice <br> Bags",
-            "button_link": "shopify:\/\/collections"
+            "cat_title": "Dice Bags <br>",
+            "button_link": "shopify:\/\/collections\/dice-bags"
           }
         },
         "template--18049197867294__222904a1-4ae0-411d-bcf9-b4103ce05918-1677775877ef6b471f-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Layer_78.png",
-            "cat_title": "Dragon <br> Scarves",
-            "button_link": "shopify:\/\/collections"
+            "cat_title": "Scarves <br>",
+            "button_link": "shopify:\/\/collections\/dragon-scarves"
           }
         },
         "template--18049197867294__222904a1-4ae0-411d-bcf9-b4103ce05918-1677775877ef6b471f-2": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Layer_79.png",
-            "cat_title": "Dragon Wing <br> Backpacks",
+            "cat_title": "Backpacks <br>",
             "button_link": "shopify:\/\/collections"
           }
         },
         "3b2f0ce7-55bc-4210-b7b3-dca5da161908": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Layer_75.png",
             "cat_title": "Fairy Wing<br> Backpacks",
@@ -97,6 +99,7 @@
         },
         "a8bb6426-37e9-4572-b346-cdc44e39be3b": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Layer_74.png",
             "cat_title": "Angel Wing <br>Backpacks",
@@ -105,6 +108,7 @@
         },
         "723d84a4-ae61-48f1-a93a-fbd0c711b2c8": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Layer_76.png",
             "cat_title": "Butterfly Wing <br>Backpacks",
@@ -124,7 +128,7 @@
         "main_title": "shop by category",
         "main_content": "Our brand focuses on clever ways to incorporate fantasy into everyday life.",
         "main_button_text": "Shop Now",
-        "main_button_link": "shopify:\/\/collections\/all"
+        "main_button_link": "shopify:\/\/collections"
       }
     },
     "32c41e16-1668-4501-963b-0399f80ab824": {
@@ -253,6 +257,7 @@
     },
     "857729cb-ae42-455a-9617-53d3a4d5ec04": {
       "type": "custom-shipping",
+      "disabled": true,
       "blocks": {
         "template--18049197867294__857729cb-ae42-455a-9617-53d3a4d5ec04-167809072999bfbe94-0": {
           "type": "column",
